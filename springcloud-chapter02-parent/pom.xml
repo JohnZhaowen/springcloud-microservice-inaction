@@ -33,6 +33,6 @@
     </dependency>
   </dependencies>
   <modules>
-  	<module>springcloud-chapter-springboot</module>
+  	<module>springcloud-chapter02</module>
   </modules>
 </project>
